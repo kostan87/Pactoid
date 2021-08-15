@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 1
+Host: https://pactoid.com
+Disallow: /style.css
+Disallow: /cookie.txt
+Sitemap: http://sitemap.xml
